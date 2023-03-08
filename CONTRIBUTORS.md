@@ -8,5 +8,6 @@ This GitHub classroom repository was based off https://github.com/education/gith
 - Manuela Vanegas Ferro
 - Sean Bergin
 - Marco Janssen
+- Shade Shutters
 
 Thanks to the CoMSES Winter School participants who are piloting this material for (hopefully!) providing constructive feedback!
